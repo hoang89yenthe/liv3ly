@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:elevation="8dp">
+    <item
+        android:id="@+id/nav_squares"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_crop_square_24"
+        android:title="@string/squares" />
+    <item
+        android:id="@+id/nav_circles"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_panorama_fish_eye_24"
+        android:title="@string/circles" />
+    <item
+        android:id="@+id/nav_triangles"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_triangles_24"
+        android:title="@string/triangles" />
+    <item
+        android:id="@+id/nav_all"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_category_24"
+        android:title="@string/all" />
+</menu>

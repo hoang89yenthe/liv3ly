@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ItemInputLogin">
+        <attr name="showIconRight" format="boolean" />
+        <attr name="srcIconLeftActive" format="reference" />
+        <attr name="srcIconLeftEmpty" format="reference" />
+        <attr name="android:inputType" />
+        <attr name="android:maxLength" />
+        <attr name="contentHint" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="SelectableRoundedImageView">
+        <attr name="sriv_left_top_corner_radius" format="dimension" />
+        <attr name="sriv_right_top_corner_radius" format="dimension" />
+        <attr name="sriv_left_bottom_corner_radius" format="dimension" />
+        <attr name="sriv_right_bottom_corner_radius" format="dimension" />
+        <attr name="sriv_border_width" format="dimension" />
+        <attr name="sriv_border_color" format="color" />
+        <attr name="sriv_oval" format="boolean" />
+        <attr name="android:scaleType" />
+    </declare-styleable>
+    
+    <declare-styleable name="AppToolbar">
+        <attr name="icon_right" format="reference"/>
+        <attr name="icon_left" format="reference"/>
+        <attr name="image_logo" format="reference"/>
+        <attr name="show_logo" format="boolean"/>
+        <attr name="toolbar_title" format="string"/>
+    </declare-styleable>
+
+</resources>

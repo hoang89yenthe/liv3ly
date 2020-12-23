@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primary">#6FD3D5</color>
+    <color name="inactive">@color/black</color>
+
+
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">#6FD3D5</color>
+
+    <color name="gray">#7e7e7e</color>
+    <color name="semi_gray">#C8C7C7</color>
+    <color name="dark_gray">#696969</color>
+    <color name="bg_color">#f7f7f7</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="view_background">#14000000</color>
+    <color name="black_effective">#2a2a2a</color>
+    <color name="shadow">#d0d8dc</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent_white">#88ffffff</color>
+    <color name="fb">#3b5998</color>
+    <color name="google">#d34836</color>
+    <color name="bg_doctor_item">#D6E2E2</color>
+    <color name="bg_doctor">#D6E2E2</color>
+    <color name="avatar_circle_border">#5B6C7E</color>
+    <color name="viking_alpha_32">#526FD3D5</color>
+    <color name="mystic">#E0E9E9</color>
+    <color name="spindle">#80C5E0F0</color>
+
+
+    <!--Design colors-->
+    <color name="red_dark">#F06423</color>
+    <color name="red_dark2">#D85A1B</color>
+    <color name="cyan_light">#c9ebee</color>
+    <color name="cyan">#b5e3e7</color>
+    <color name="cyan_dark">#70BDC6</color>
+    <color name="cyan_dark_2">#D9F3F4</color>
+    <color name="navy_blue">#214258</color>
+    <color name="navy_blue_dark">#1C3A4E</color>
+    <color name="light_green">#78DC96</color>
+    <color name="light_blue">#55C8F0</color>
+    <color name="blue_black_dark">#13171d</color>
+    <color name="blue_black_light">#516179</color>
+    <color name="blue_grey_light">#A5B4C8</color>
+    <color name="orange">#FFA500</color>
+    <color name="yellow">#FFC107</color>
+
+
+    <color name="colorRating">#f7ab59</color>
+    <color name="colorRatingOff">#a2bcbc</color>
+    <color name="color_495a72">#495a72</color>
+    <color name="color_fc8d08">#fc8d08</color>
+    <color name="color_40e2c3">#40e2c3</color>
+    <color name="color_ff738e">#ff738e</color>
+    <color name="colorBackground">#F5F7FB</color>
+    <color name="color_6fd3d5">#6fd3d5</color>
+    <color name="athens_gray">#F5F7FB</color>
+
+    <color name="viking">#6FD3D5</color>
+    <color name="selected_item">#00D9DD</color>
+    <color name="color_title_question">#C1F0F1</color>
+    <color name="morning_glory">#A5D8E0</color>
+    <color name="tower_gray">#A2BCBC</color>
+    <color name="scooter">#22C5D6</color>
+    <color name="froly">#FF738E</color>
+    <color name="froly_alpha_75">#40FF738E</color>
+    <color name="gable_green">#193332</color>
+    <color name="cutty_sark">#516666</color>
+    <color name="cloud_burst">#1D2D49</color>
+    <color name="turquoise">#40E2C3</color>
+
+    <color name="color_view">#DFDBDB</color>
+    <color name="color_text">#1d2d49</color>
+    <color name="color_text_title">#5c6c7f</color>
+    <color name="color_text_title_medicine">#9AA7B6</color>
+
+    <color name="color_FCAC62">#FCAC62</color>
+    <color name="color_FBD4C2">#FBD4C2</color>
+
+    <color name="view_line">#73848C</color>
+    <color name="color_line">#239389</color>
+    <color name="color_text_one">#a2bcbc</color>
+
+    <color name="color_bg_alarm">#E4ECECEA</color>
+    <color name="color_bg_alarm_off">#ACC8CC</color>
+
+    <!--     category measure three patient-->
+    <color name="color_low">#007FFF</color>
+    <color name="color_good">#00FF00</color>
+    <color name="color_tien_tha">#E6E600</color>
+    <color name="color_do_1">#FF7F00</color>
+    <color name="color_do_2">#DC143C</color>
+    <color name="color_do_3">#800000</color>
+    <color name="black_haze">#EBEDED</color>
+    <color name="shuttle_gray">#5C6C7F</color>
+    <color name="view_date">#93ACB8</color>
+    <color name="measure_tt">#2C335C</color>
+
+    <!--    status list me-->
+    <color name="color_active">#009688</color>
+    <color name="color_inactive">#03A9F4</color>
+    <color name="color_reject">#F44336</color>
+    <color name="color_test">#878704</color>
+    <color name="color_doctor_off">#636C6C</color>
+    <color name="color_view_line_2">#ACC8CC</color>
+
+    <!--    status Manager free time-->
+    <color name="color_CREATED">#EFAB59</color>
+    <color name="color_CHANGED">#EFAB59</color>
+    <color name="color_REJECTED">#FF718E</color>
+    <color name="color_CANCELED">#FF718E</color>
+    <color name="color_EXPIRED">#FF718E</color>
+    <color name="color_ACCEPTED">#13E2C3</color>
+    <color name="color_view_status">#D68595</color>
+
+    <color name="chambray">#3B5998</color>
+    <color name="color_bg_news">#C1ECF1</color>
+
+    <color name="text_type_topic_off">#7E828A</color>
+    <color name="bg_text_type_topic_off">#F5F6FF</color>
+    <color name="text_type_topic_on">#264C63</color>
+    <color name="bg_text_type_topic_on">#BCC9D3</color>
+
+    <color name="calendar_selected_day_bg">#6FD3D5</color>
+    <color name="calendar_selected_range_bg">#6FD3D5</color>
+
+    <!--    this is for HighLighted dates-->
+    <color name="calendar_unavailable_bg">#F44336</color>
+    <color name="calendar_range_middle_unavailable_bg">#F44336</color>
+
+    <!--     this is for Deactivated dates-->
+    <color name="calendar_range_middle_deactivated_bg">#F44336</color>
+    <color name="bg_color_time_message">#AFB1B5</color>
+    <color name="bg_real_all_notification">#EDEFF4</color>
+
+    <!--    this color Rating-->
+    <color name="color_Star5">#3C9E40</color>
+    <color name="color_Star4">#9FD85E</color>
+    <color name="color_Star3">#FFEB3B</color>
+    <color name="color_Star2">#FA9C12</color>
+    <color name="color_Star1">#C5483F</color>
+    <color name="color_bg_total_rating">#F3F4F2F2</color>
+
+
+    <!--     this color month financial-->
+    <color name="color_month_12">#9E1644</color>
+    <color name="color_month_11">#F13D7A</color>
+    <color name="color_month_10">#1A94F4</color>
+    <color name="color_month_9">#FF9800</color>
+    <color name="color_month_8">#8BC34A</color>
+    <color name="color_month_7">#F878A3</color>
+    <color name="color_month_6">#F8A05E</color>
+    <color name="color_month_5">#8FF635</color>
+    <color name="color_month_4">#10DEF8</color>
+    <color name="color_month_3">#2B3A8F</color>
+    <color name="color_month_2">#F4BE36</color>
+    <color name="color_month_1">#08AF0E</color>
+
+    <!--     color of advisory status-->
+    <color name="success">#007FFF</color>
+    <color name="failed">#DC143C</color>
+    <color name="not_rate_yet">#FA9C12</color>
+    <color name="color_1d2d49">#000000</color>
+
+</resources>
