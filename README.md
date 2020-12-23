@@ -1,5 +1,5 @@
-# liv3ly
-# Problem Statement
+# Problem Statement - liv3ly
+
 
 1. A user should be able to spawn an infinite number of squares or circles filled with random colours or images.
 2. Application consists of 4 screens using a tab bar. The tabs are as follows:
